@@ -1,0 +1,2 @@
+Implemented fixes for both files. Files were for an assignment in a Data Structures course and as such was partially constructed by the teacher.
+Comments should make it relatively easy to see where my work began and ended.
